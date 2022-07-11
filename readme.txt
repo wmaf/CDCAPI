@@ -1,4 +1,5 @@
 1) Pick a topic that is interesting to you.
+	Also see: https://gh.bmj.com/content/6/5/e005542
 a. pick a topic (CDC health Covid 19 data) use 3rd party data for contrast.
 i. https://www.bloomberg.com/news/articles/2020-05-01/why-coronavirus-reporting-data-is-so-bad
 ii. https://data.cdc.gov/browse?tags=covid-19
@@ -9,7 +10,7 @@ iii. Dataset  API: https://data.cdc.gov/resource/vbim-akqf.json
 	Social Interactions (social media)
 	Health data (covid is a big one)
 a. Employs the use of 3rd party data from any data source.  E.g., CSV, API and Databases
-i. If possible, it should have the ability to scrape PDF’s.
+i. If possible, it should have the ability to scrape PDFâ€™s.
 ii. https://developer.adobe.com/document-services/apis/pdf-extract/
 3) Search for APIs and datasets that cover your topic/s of interest
 a. Links in folder.
